@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Gabriel Franco 👋
+
+### About me
+I'm a Gameplay Systems Engineer with 9+ years of experience building scalable gameplay systems and maintainable C# architectures for WebGL, mobile, and PC platforms.
+
+I'm specialized in systems architecture, performance optimization, scalable UI frameworks, and production-ready Unity engineering workflows.
+
+- 🔭 Currently working on my Back-End development skills and an online Head-to-Head Pinball game.
+- ⚡ Fun fact: I'm a fighting game enthusiast, my favorite game currently is Tekken 8.
 
 <!--
 **gabrifs/gabrifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
