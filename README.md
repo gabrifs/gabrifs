@@ -1,4 +1,4 @@
-<h1 align="center"># Hi, I'm Gabriel Franco 👋</h1>
+<h1 align="center"> Hi, I'm Gabriel Franco 👋</h1>
 
 ### About me
 I'm a Gameplay Systems Engineer with 9+ years of experience building scalable gameplay systems and maintainable C# architectures for WebGL, mobile, and PC platforms.
