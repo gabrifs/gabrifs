@@ -5,20 +5,11 @@ I'm a Gameplay Systems Engineer with 9+ years of experience building scalable ga
 
 I'm specialized in systems architecture, performance optimization, scalable UI frameworks, and production-ready Unity engineering workflows.
 
-- 🔭 Currently working on my Back-End development skills and an online Head-to-Head Pinball game.
-- ⚡ Fun fact: I'm a fighting game enthusiast, my favorite game currently is Tekken 8.
+My main tech stack is Unity and C#.
 
-<!--
-**gabrifs/gabrifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on my Back-End development skills and an online Head-to-Head Pinball game.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts:
+- I have 5 cats and 1 dog
+- I like Nu-Metal and Dark Synth
+- Hobbies: Skateboarding, anime, videogames, tabletop RPGs
