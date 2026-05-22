@@ -11,13 +11,13 @@ Experienced working on long-term live educational platforms deployed across WebG
 
 I'm currently expanding into back-end and multiplayer systems development while building an online head-to-head pinball game.
 
-#### Fun facts
-- I have 5 cats and 1 dog
-- I like Nu-Metal and Dark Synth
-- Hobbies: skateboarding, anime, videogames, and tabletop RPGs
-
 #### Current engineering focus
 - Back-end development with C# and ASP.NET Core
 - Docker and PostgreSQL
 - Scalable multiplayer architecture
 - Clean architecture and maintainable systems design
+
+#### Fun facts
+- I have 5 cats and 1 dog
+- I like Nu-Metal and Dark Synth
+- Hobbies: skateboarding, anime, videogames, and tabletop RPGs
