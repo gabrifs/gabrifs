@@ -3,9 +3,9 @@ Hi, I'm Gabriel Franco 👋
 </h1>
 
 ### About me
-I'm a Gameplay Systems Engineer with 9+ years of experience building scalable gameplay systems and maintainable C# architectures for WebGL, mobile, and PC platforms.
+I'm a Unity Gameplay Systems Engineer with 9+ years of experience building scalable gameplay systems and maintainable C# architectures for WebGL, mobile, and PC platforms.
 
-I specialize in systems architecture, performance optimization, scalable gameplay and UI frameworks, and production-ready Unity engineering workflows.
+I specialize in scalable Unity gameplay architecture, maintainable C# systems design, performance optimization, and cross-platform development workflows.
 
 Experienced working on long-term live educational platforms deployed across WebGL, Android, and iOS environments.
 
