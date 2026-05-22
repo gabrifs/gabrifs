@@ -3,13 +3,19 @@
 ### About me
 I'm a Gameplay Systems Engineer with 9+ years of experience building scalable gameplay systems and maintainable C# architectures for WebGL, mobile, and PC platforms.
 
-I'm specialized in systems architecture, performance optimization, scalable UI frameworks, and production-ready Unity engineering workflows.
+I specialize in systems architecture, performance optimization, scalable UI frameworks, and production-ready Unity engineering workflows.
 
-My main tech stack is Unity and C#.
+My primary tech stack is Unity and C#.
 
-I'm currently working on my Back-End development skills and an online Head-to-Head Pinball game.
+I'm currently expanding my back-end development skills while building an online head-to-head pinball game.
 
-Fun facts:
+#### Fun facts
 - I have 5 cats and 1 dog
 - I like Nu-Metal and Dark Synth
-- Hobbies: Skateboarding, anime, videogames, tabletop RPGs
+- Hobbies: skateboarding, anime, videogames, and tabletop RPGs
+
+#### Current focus
+- Back-end development with C# and ASP.NET Core
+- Docker and PostgreSQL
+- Scalable multiplayer architecture
+- Clean architecture and maintainable systems design
