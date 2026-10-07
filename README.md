@@ -13,7 +13,7 @@ I'm currently expanding into back-end and multiplayer systems development while 
 #### Current engineering focus
 - Clean architecture and maintainable systems design
 - Integrating AI tooling into production-level development workflows
-- Unreal Engine 5 and C++
+- Adapting my gameplay and UI systems knowledge to Unreal Engine 5 and C++
 
 #### Fun facts
 - I have 5 cats and 1 dog
