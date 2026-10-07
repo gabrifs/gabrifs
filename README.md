@@ -11,11 +11,9 @@ I specialize in clean systems design, performance optimization, and cross-platfo
 I'm currently expanding into back-end and multiplayer systems development while building an online head-to-head pinball game.
 
 #### Current engineering focus
-- Scalable multiplayer architecture
 - Clean architecture and maintainable systems design
-- Back-end development with C# and ASP.NET Core
-- Docker and PostgreSQL
 - Integrating AI tooling into production-level development workflows
+- Unreal Engine 5 and C++
 
 #### Fun facts
 - I have 5 cats and 1 dog
