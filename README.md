@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Gabriel Franco 👋
+  Hi, I'm Gabriel Franco
 </h1>
 
 ### About me
