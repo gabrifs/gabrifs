@@ -19,3 +19,6 @@ I'm currently expanding into back-end and multiplayer systems development while 
 - I have 5 cats and 1 dog
 - I like Nu-Metal and Dark Synth
 - Hobbies: skateboarding, anime, videogames, and tabletop RPGs
+
+### Connect via email
+gabrielfsmartins@gmail.com
